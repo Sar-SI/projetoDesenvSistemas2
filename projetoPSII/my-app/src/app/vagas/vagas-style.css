@@ -1,0 +1,30 @@
+body{
+   
+}
+
+#title{
+	word-break: break-word;
+	font-size: 30px;
+	color: #FFF5EE;
+	font-weight: bold;
+	font-family: monospace;
+}
+
+#card{
+	text-align: center;
+	background-color: #FFF5EE;
+	cursor: pointer;
+	width: 200px;
+	height: 230px;
+	border-radius: 12px;
+	opacity: 0.5;
+}
+
+#signup{
+	background-color: #FF7F50;
+	border-radius: 4px;
+}
+
+#signup:hover{
+	background-color: #F0E68C;
+}

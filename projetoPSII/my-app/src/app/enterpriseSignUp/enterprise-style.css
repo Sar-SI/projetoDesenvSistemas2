@@ -1,0 +1,35 @@
+#fraseInicial {
+    padding: 200px 0px 0px 0px;
+    word-break: break-word;
+    font-size: 30px;
+    color: #FFF5EE;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+#objetivo {
+    word-break: break-word;
+    font-size: 20px;
+    color: #FFF5EE;
+    font-family: monospace;
+}
+
+#signup {
+    background-color: #FF7F50;
+    border-radius: 4px;
+}
+
+#signup:hover {
+    background-color: #F0E68C;
+}
+
+input {
+    width: 500px;
+    height: 50px;
+}
+
+#salvar {
+    background-color: #FF7F50;
+    border-radius: 4px;
+    height: 40px;
+}

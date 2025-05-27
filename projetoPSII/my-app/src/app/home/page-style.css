@@ -1,0 +1,63 @@
+body{
+    background-image: url('/background.jpg');
+	background-size: cover;
+}
+
+button{
+	border: none;
+	float: right;
+	margin: 20px 40px;
+	font-size: 25px;
+	font-family: Georgia, serif;
+	background-color: transparent;
+	color: #FFF5EE;
+	cursor: pointer;
+}
+
+a{
+	color: #FFF5EE;
+	text-decoration: none;
+}
+      
+a:hover{
+	color: #F0E68C;
+}
+
+div{
+	padding: 0px 350px;
+}
+      
+#fraseInicial{
+	padding: 200px 0px 0px 0px;
+	word-break: break-word;
+	font-size: 30px;
+	color: #FFF5EE;
+	font-weight: bold;
+	font-family: monospace;
+}
+
+#objetivo{
+	word-break: break-word;
+	font-size: 20px;
+	color: #FFF5EE;
+	font-family: monospace;
+}
+
+#searchBar{
+	height: 50px;
+	width: 700px;
+}
+
+#search{
+	border: solid;
+	border-radius: 12px;
+}
+
+	#signup{
+  background-color: #FF7F50;
+  border-radius: 4px;
+}
+
+#signup:hover{
+	background-color: #F0E68C;
+}
